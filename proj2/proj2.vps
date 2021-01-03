@@ -1,0 +1,17 @@
+{
+    "sceneObjects": [],
+    "sceneLights": [],
+    "skyboxName": "NightSkyline",
+    "backdropName": "DefaultBackdrop",
+    "sunRotation": {
+        "x": 0.8346641063690186,
+        "y": 0.20168428122997285,
+        "z": 0.09637270867824555,
+        "w": 0.503360390663147
+    },
+    "playerPosition": {
+        "x": -3.256598711013794,
+        "y": 2.232027053833008,
+        "z": 4.479606628417969
+    }
+}
