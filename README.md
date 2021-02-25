@@ -1,5 +1,5 @@
 # SceneForge Studio Alpha Repository
-### (C) [MidnightCoffee, Inc.](www.midnightcoffeeinc.com) 2021.  ALL RIGHTS RESERVED.
+### (C) [MidnightCoffee, Inc.](http://www.midnightcoffeeinc.com) 2021.  ALL RIGHTS RESERVED.
 
 SceneForge Studio is the world's first all-in-one Virtual Production Software, built from the ground up for VR.
 Download the application .exe under `Releases`.  You can also download the `Source Code.zip` which contains a simple example project.
