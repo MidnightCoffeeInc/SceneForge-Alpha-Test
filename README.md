@@ -1,5 +1,3 @@
-# APP BREAKING BUG IN PROCESS OF BEING FIXED.  WAIT FOR NEXT RELEASE TO DOWNLOAD :)
-
 # SceneForge Studio Alpha Repository
 ### (C) [MidnightCoffee, Inc.](http://www.midnightcoffeeinc.com) 2021.  ALL RIGHTS RESERVED.
 
